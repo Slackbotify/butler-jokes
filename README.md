@@ -18,7 +18,11 @@ bot.requireRegister(require('butler-jokes'));
 Or use the plugin loader to install this plugin!
 
 ## Handlers
+### Chuck norris jokes
+**Available in:** Direct message. <br>
+Trigger: `!chuck`
 
+Get a random chuck norris joke!
 
 ### License
 MIT
