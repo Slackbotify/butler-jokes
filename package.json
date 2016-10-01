@@ -1,6 +1,6 @@
 {
 	"name": "butler-jokes",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Add some fun to your butler bot",
 	"main": "index.js",
 	"scripts": {
@@ -12,6 +12,13 @@
 	"dependencies": {
     "request": "^2.74.0"
 	},
+  "keywords": [
+    "slackbotify-butler",
+    "slackbotify",
+    "butler",
+    "jokes",
+    "slack"
+  ],
 	"devDependencies": {
 		"ava": "^0.16.0",
 		"xo": "^0.16.0",

@@ -7,5 +7,10 @@ module.exports = [
 		groups: ['direct'],
 		match: /!chuck/i,
 		handler: jokesHandler.chuckJoke
+	},
+	{
+		groups: ['direct'],
+		match: /!momma/i,
+		handler: jokesHandler.mommaJoke
 	}
 ];
