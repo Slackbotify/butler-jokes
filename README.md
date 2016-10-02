@@ -22,6 +22,8 @@ Or use the plugin loader to install this plugin!
 **Available in:** Direct message. <br>
 Trigger: `!chuck`
 
+Get random Chuck norris joke
+
 ### yo momma jokes
 **Available in:** Direct message. <br>
 Trigger: `!momma`
